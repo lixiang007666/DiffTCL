@@ -1,0 +1,10 @@
+img/n0301.jpg mask/n0301.bmp
+img/n0302.jpg mask/n0302.bmp
+img/n0303.jpg mask/n0303.bmp
+img/n0304.jpg mask/n0304.bmp
+img/n0305.jpg mask/n0305.bmp
+img/n0306.jpg mask/n0306.bmp
+img/n0307.jpg mask/n0307.bmp
+img/n0308.jpg mask/n0308.bmp
+img/n0309.jpg mask/n0309.bmp
+img/n0310.jpg mask/n0310.bmp

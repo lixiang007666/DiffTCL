@@ -1,0 +1,27 @@
+name: diff-pre-training
+gpus: 1
+max_epochs: 100
+precision: 16
+data:
+  root: data/refuge2
+  size: 256
+  crop: 224
+  num_val: 100
+  batch_size: 64
+  workers: 8
+model:
+  lr: 0.0001
+  optimizer: adam
+  betas:
+  - 0.9
+  - 0.999
+  weight_decay: 0.0
+  momentum: 0.9
+  arch: deeplabv3plus
+  encoder: resnet50
+  in_channels: 1
+  mode: encoder+decoder
+  noise_type: scaled
+  noise_std: 0.22
+  loss_type: l2
+  channel_last: true

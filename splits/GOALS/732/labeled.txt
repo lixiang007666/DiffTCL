@@ -1,0 +1,10 @@
+img/0001.png mask/0001.png
+img/0002.png mask/0002.png
+img/0003.png mask/0003.png
+img/0004.png mask/0004.png
+img/0005.png mask/0005.png
+img/0006.png mask/0006.png
+img/0007.png mask/0007.png
+img/0008.png mask/0008.png
+img/0009.png mask/0009.png
+img/0010.png mask/0010.png

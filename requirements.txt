@@ -1,0 +1,17 @@
+numpy==1.21.5
+Pillow==9.2.0
+pytorch_lightning[extra]==1.6.4
+segmentation_models_pytorch==0.2.1
+torch==1.12.0
+torchvision==0.13.0
+wandb==0.12.15
+pyyaml>=5.4.0
+easydict
+TensorBoardX
+tensorboard
+opencv-python
+scipy
+scikit-learn
+scikit-image
+einops
+h5py
