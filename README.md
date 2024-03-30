@@ -10,17 +10,19 @@ Here is the latest news:
 - :rocket: WIP.
 
 ## Overview 
-TODO
+
+> [!NOTE]
+The abstract graphic will be published shortly.
 
 ## Quick Start
 
-### Installation
+### ⚙️ Installation
 ```shell
 conda create -n difftcl python=3.8.16
 pip install -r requirements
 ```
 
-### Training
+### 📉 Training
 ```python
 # Diffusion-Enhanced pre-training
 python3 train.py --config configs/diff-pre-training.yaml
