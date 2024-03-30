@@ -7,6 +7,7 @@ This is the official repository for the paper: [Diffusion-Enhanced Transformatio
 Here is the latest news:
 - :rocket: The first version of the code has been released, and a complete, optimized version of DiffTCL will be released shortly.
 - :rocket: The paper is in submission.
+- :rocket: WIP.
 
 ## Overview 
 TODO
