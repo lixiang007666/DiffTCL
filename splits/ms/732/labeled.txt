@@ -1,5 +1,0 @@
-img/0000.png mask/0000.png
-img/0001.png mask/0001.png
-img/0002.png mask/0002.png
-img/0003.png mask/0003.png
-img/0004.png mask/0004.png
